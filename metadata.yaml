@@ -1,0 +1,26 @@
+_repo: Tom-Swift-and-His-Motor-Boat--Or-The-Rivals-of-Lake-Carlopa_2273
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Appleton, Victor
+    gutenberg_agent_id: '267'
+    url: http://www.gutenberg.org/2009/agents/267
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Appleton
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2000-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swift, Tom (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Boats and boating -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- GITenberg
+title: Tom Swift and His Motor-Boat; Or, The Rivals of Lake Carlopa
+url: http://www.gutenberg.org/ebooks/2273
